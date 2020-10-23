@@ -1,5 +1,11 @@
 body {
-	background-color: #cccccc20;
-	background-image: url("images/imageblackrhino.png");
-	background-repeat: no-repeat;
+    background-color: #cccccc20;
+    background-image: url("images/imageblackrhino.png");
+    background-repeat: no-repeat;
+}
+
+.big-title {
+    color: #010101;
+    text-align: center;
+    font-size: 100px;
 }
