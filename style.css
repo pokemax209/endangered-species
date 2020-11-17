@@ -20,6 +20,8 @@ body {
     border-width: 10px;
     border-style: solid;
     width: 1600px;
+    position: relative;
+    left: 80px;
 }
 
 .inner-text {
